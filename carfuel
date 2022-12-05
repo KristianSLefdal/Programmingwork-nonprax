@@ -1,4 +1,4 @@
-fuel =9
+fuel =25
 if fuel > 35:
     print("drive fast")
 else:
