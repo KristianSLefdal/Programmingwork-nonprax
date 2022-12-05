@@ -4,7 +4,7 @@ additon = 50 + 70
 sum = 50 + 70
 print (sum)
 #substraction
-substraction = 100 - 50
+subtraction = 100 - 50
 sum = 100 - 50
 print (sum)
 #multiplication
