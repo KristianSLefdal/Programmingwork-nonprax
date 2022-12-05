@@ -1,4 +1,4 @@
-fuel =9
+fuel =22
 if fuel > 35:
     print("drive fast")
 else:
@@ -7,5 +7,3 @@ else:
     else:
         if fuel > 15:
             print("drive slow")
-        else:
-            print ("stop to refuel")
