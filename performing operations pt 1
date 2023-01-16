@@ -1,0 +1,55 @@
+#sum = 1000 + 1000
+#print (sum)
+#sum = 2000
+
+#sum = 1500 - 1000
+#print(sum)
+#sum = 500
+
+#sum = 10 * 10
+#print(sum)
+#sum = 100
+
+#sum = 100 / 10
+#print(sum)
+#sum = 10
+
+#sum = 8 % 2
+#print(sum)
+#sum = 0
+
+#sum = 2000 // 2
+#print(sum)
+#sum = 1000
+
+#sum = 100 ** 2
+#print(sum)
+#sum = 10000
+
+#assigning values
+#------------------------------------------------------------
+#A = 10 
+#B = 4
+#add and assign
+#sum = A + B
+#print(sum)
+#14
+
+#substract and assign
+#sum = A - B
+#print(sum)
+#6
+
+#multiply and assign
+#sum = A * B
+#print(sum)
+#40
+
+#sum = A / B
+#print(sum)
+#2.5
+
+#sum = A % B
+#print(sum)
+#2
+#------------------------------------------------------------------
