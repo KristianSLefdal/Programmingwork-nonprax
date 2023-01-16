@@ -1,0 +1,11 @@
+A = input('Enter A number: ')
+B = input('Now enter another number: ')
+
+sum = A + B
+print('data type sum: ', sum, type(sum))
+sum = int(A) + int (B)
+print('data type sum',sum,type(sum))
+sum = float(sum)
+print('data type sum: ', sum,type(sum))
+sum = chr (int(sum))
+print('data type sum: ', sum, type(sum))
