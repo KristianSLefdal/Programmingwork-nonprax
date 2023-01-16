@@ -1,0 +1,11 @@
+a = 4
+b = 5
+
+print("variable A is even" if (a == 1)else 'not one')
+print('variable A is:' , 'even'if (a % 2 == 0) else 'odd')
+
+print('variable B is ','one' if (b == 1)else 'not one')
+print('variable B is:' , 'even'if (b % 2 == 0) else 'odd')
+
+max = a if (a > b) else b
+print( 'greater value is:''', max)
